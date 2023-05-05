@@ -1,0 +1,16 @@
+main.c:189:16:USBD_CUSTOM_HID_DataIn	2
+main.c:142:6:error	3
+main.c:210:6:save_errors_in_report	1
+main.c:231:6:do_next	21
+main.c:326:6:HAL_I2C_MasterTxCpltCallback	4
+main.c:340:6:HAL_I2C_MemRxCpltCallback	24
+main.c:344:6:HAL_I2C_MasterRxCpltCallback	24
+main.c:361:6:HAL_TIM_OC_DelayElapsedCallback	9
+main.c:383:6:HAL_TIM_PeriodElapsedCallback	30
+main.c:466:6:do_read	5
+main.c:483:6:QMC5883L_soft_reset_and_init	3
+main.c:491:6:TLV493D_A1B6_init	3
+main.c:1273:6:Error_Handler	1
+main.c:316:6:HAL_I2C_ErrorCallback	2
+main.c:609:6:SystemClock_Config	2
+main.c:510:5:main	29

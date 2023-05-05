@@ -1,0 +1,7 @@
+main.h:132:13:init_compare_registers_for_sensors_timer	4
+usbd_custom_hid_if.c:178:20:copy_errors_data	1
+usbd_custom_hid_if.c:194:20:copy_sensors_data	8
+usbd_custom_hid_if.c:233:6:need_send_data	1
+usbd_custom_hid_if.c:278:15:CUSTOM_HID_Init_FS	1
+usbd_custom_hid_if.c:289:15:CUSTOM_HID_DeInit_FS	1
+usbd_custom_hid_if.c:302:15:CUSTOM_HID_OutEvent_FS	61

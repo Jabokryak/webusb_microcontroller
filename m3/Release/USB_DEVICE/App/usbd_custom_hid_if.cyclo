@@ -1,0 +1,5 @@
+usbd_custom_hid_if.c:296:15:CUSTOM_HID_Init_FS	1
+usbd_custom_hid_if.c:307:15:CUSTOM_HID_DeInit_FS	1
+main.h:134:13:init_compare_registers_for_sensors_timer	4
+usbd_custom_hid_if.c:249:6:need_send_data	8
+usbd_custom_hid_if.c:320:15:CUSTOM_HID_OutEvent_FS	69
